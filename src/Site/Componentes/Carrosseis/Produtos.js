@@ -27,6 +27,7 @@ class Produtos extends Component {
                     <CarrosselItem item = {it[0]} ativo/>
                     <CarrosselItem item = {it[1]}/>
                     <CarrosselItem item = {it[2]}/>
+                    <CarrosselItem item = {it[2]}/>
                 </CarrosselInner>
                 <CarrosselControles carrosselId="Produtos" c="text-luxury"/>
             </CarrosselBody>
