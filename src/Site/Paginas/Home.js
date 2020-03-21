@@ -12,7 +12,7 @@ import MaisVistos from '../Componentes/Carrosseis/MaisVistos';
 import CompreLook from '../Componentes/Carrosseis/CompreLook';
 
 class Home extends Component {
-    state = {a:["a"]}
+    state = { a: ["a"] }
     render() {
         return (
             <div>
